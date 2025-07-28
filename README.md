@@ -1,2 +1,3 @@
-# simple-crm
- A simple CRM to manage customers and follow-ups
+# Simple CRM
+
+A simple customer management system with login and follow-up tracking.
